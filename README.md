@@ -7,7 +7,7 @@ ColorPalette is a web-based color palette that allows users to find,  name, and 
 ## Getting Started
 
 ### Dependencies
-1. Download and install [React](https://reactjs.org/) and [Node](https://nodejs.org/)
+1. Download and install [React](https://reactjs.org/) and [Node.js](https://nodejs.org/)
 2. Open terminal and access the **ColorPalette** folder
 
 ### Running the program
