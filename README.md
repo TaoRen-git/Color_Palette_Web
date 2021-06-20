@@ -23,32 +23,24 @@ ColorPalette is a web-based color palette that allows users to find,  name, and 
 
 #### Finding color
 * Using the color palette to find the color.
-* <details><summary>Demo</summary>
     <center>
         <img alin = "center" src="./gif/Find color.gif">
     </center>
-</details>
 
 #### Adding color
 * After finding the color, typing the name then clicking button ```Add```.
-* <details><summary>Demo</summary>
     <center>
         <img alin = "center" src="./gif/Add color.gif">
     </center>
-</details>
-
+    
 #### Reseting color
 * If the color is not accurate, typing the same name and adjusting the color palette, then clicking button ```Add```.
-* <details><summary>Demo</summary>
     <center>
         <img alin = "center" src="./gif/Reset color.gif">
     </center>
-</details>
 
 #### Deleting color
 * Clicking the ```x``` to delete a color.
-* <details><summary>Demo</summary>
     <center>
         <img alin = "center" src="./gif/Delete color.gif">
     </center>
-</details>
