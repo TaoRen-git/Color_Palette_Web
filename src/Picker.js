@@ -49,7 +49,7 @@ export default function Picker(props) {
                 placeholder="name"
             />
 
-            <button onClick={() => props.add({name, hex})}>Add to Palette!</button>
+            <button onClick={() => props.add({name, hex})}>Add</button>
 
         </div>
     )
